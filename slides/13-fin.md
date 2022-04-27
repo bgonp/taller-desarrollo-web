@@ -29,22 +29,18 @@ clicks: 5
 <img src="/assets/profile.jpeg">
 
 borja@bgon.es
-[linkedin.com/in/borja-gonzalez](https://linkedin.com/in/borja-gonzalez)
+
 [github.com/bgonp](https://github.com/bgonp)
+
+[linkedin.com/in/borja-gonzalez](https://linkedin.com/in/borja-gonzalez)
 
 </div>
 </div>
 
 <style>
-	.code-block {
-		position: absolute;
-		right: 5%;
-		top: 20%;
-		width: 45%;
-	}
   img {
     border-radius: 50%;
-    max-height: 50%;
+    max-height: 40%;
 		margin: 0 auto 24px;
   }
 </style>
