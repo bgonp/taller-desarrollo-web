@@ -4,9 +4,7 @@ layout: center
 
 # Proyecto
 
-## Round 1
-
-<Timer m="x-auto t-8"/>
+## Round 1: base
 
 <style>
   h1 {
