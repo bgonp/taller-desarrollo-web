@@ -9,8 +9,24 @@ clicks: 5
 
 - Entornos de ejecución
 - ¿Qué es __NodeJS__?
-- Gestión de dependencias con __npm__
-- Empaquetar / Minificar / Parsear
+
+<hr />
+
+<div v-click="1">
+
+- 📦 Empaquetar
+
+</div>
+<div v-click="2">
+
+- 🗜 Minificar
+
+</div>
+<div v-click="4">
+
+- 💬 Parsear
+
+</div>
 
 </div>
 <div>
@@ -78,5 +94,9 @@ var _a;
 		right: 5%;
 		top: 20%;
 		width: 45%;
-	} 
+	}
+	hr {
+		opacity: 0.5;
+		margin: 24px 24px 24px 0;
+	}
 </style>
