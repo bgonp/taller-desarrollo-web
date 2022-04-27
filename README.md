@@ -1,11 +1,17 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Taller Desarrollo Web
 
-To start the slide show:
+## Presentación
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+- [Presentación](taller-desarrollo-web.netlify.app)
 
-Edit the [slides.md](./slides.md) to see the changes.
+## Proyecto principal
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+- [Round 1](https://codesandbox.io/s/project-round-1-vvcotd)
+- [Round 2](https://codesandbox.io/s/project-round-2-sx7rvi)
+- [Round 3](https://codesandbox.io/s/project-round-3-f4bspb)
+- [Final round](https://codesandbox.io/s/project-round-4-ogwpj8)
+
+## Otros
+
+- [Asincronía](https://codesandbox.io/s/demo-async-lgkj7s)
+- [API](https://codesandbox.io/s/simple-api-f3tb76)
