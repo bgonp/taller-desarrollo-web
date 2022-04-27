@@ -7,6 +7,7 @@
 - 📃 Mostrar lista de habilidades
 - 🔎 Buscar por nombres
 - 👀 Ver evoluciones
+- 🔄 Cambiar API
 - ...
 
 </v-click>
