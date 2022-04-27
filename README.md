@@ -2,7 +2,7 @@
 
 ## Presentación
 
-- [Presentación](taller-desarrollo-web.netlify.app)
+- [Presentación](https://taller-desarrollo-web.netlify.app)
 
 ## Proyecto principal
 
