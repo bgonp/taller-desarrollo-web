@@ -14,6 +14,7 @@
 ## Deployed
 - [DA1D1A](https://da1d1a.netlify.app)
 - [DA1D1E](https://da1d1e.netlify.app)
+- [DW1E](https://dw1e.netlify.app)
 
 ## Otros
 
