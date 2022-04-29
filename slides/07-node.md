@@ -2,17 +2,12 @@
 clicks: 5
 ---
 
-# NodeJS
+# Proyecto NodeJS
 
 <div grid="~ cols-2 gap-4">
 <div>
 
-- Entornos de ejecución
-- ¿Qué es __NodeJS__?
-
 <div v-click="1">
-
-<hr />
 
 - 📦 Empaquetar
 
