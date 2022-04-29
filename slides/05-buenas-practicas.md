@@ -12,8 +12,6 @@
 
 </v-click>
 
--
-
 <v-click>
 
 > 👩‍🦰 Escribe para personas,<br>🤖 no para máquinas
